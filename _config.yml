@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mario Solís | PhD (c) in Physics"
+title                    : "Mario Solís | PhD(c) in Physics"
 title_separator          : "-"
 name                     : &name "Mario Solís"
 description              : &description "personal description"
