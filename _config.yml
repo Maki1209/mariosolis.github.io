@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mario's Homepage"
 title_separator          : "-"
-name                     : &name "Mario Solís"
+name                     : &name "PhD(c) Mario Solís"
 description              : &description "personal description"
 url                      : "https://mariosolisbenites.github.io/homepage" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
