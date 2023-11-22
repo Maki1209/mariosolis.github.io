@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CMP). The aim of my research are brought the techniques of HEP to CMP. In this situation, I have resorted to techniques of Quantum Field Theory (QFT), General Relativity, Conformal Field Theory (CFT), Modular Forms and Entanglement Entropy (EE). I used them in different contexts, such as: $\textbf{Quantum criticality}$, $\textbf{Non-Fermi Liquids}$, $\textbf{Superconductivity}$, $\textbf{Entanglement Entropy}$, $\textbf{Nonrelativistic QFT at finite density}$ and $\textbf{Elasticity in Graphene}$. I will present a program to continue on these lines of research in the following few years. 
+🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CondMat). The aim of my research are brought the techniques of HEP to CondMat. 
 
 Getting started
 ======
