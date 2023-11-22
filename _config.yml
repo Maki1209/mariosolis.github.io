@@ -96,14 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mariosolisbenites"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6139-075X"
+  orcid            : # "https://orcid.org/0000-0001-6139-075X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  github           : "mariosolisbenites"
  # kaggle           : "https://orcid.org/0000-0001-6139-075X"
 
 
