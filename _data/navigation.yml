@@ -15,9 +15,9 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Research"
+  - title: "Preprint-Arxiv"
     url: http://arxiv.org/a/solis_m_2
     #url: /research/  
     
-# - title: "Guide"
-#    url: /markdown/
+# - title: "Inspire-hep"
+#   url: /markdown/
