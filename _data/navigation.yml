@@ -16,7 +16,8 @@ main:
 #    url: /year-archive/
     
   - title: "Research"
-    url: /research/  
+    url: "http://arxiv.org/a/solis_m_2"
+    #url: /research/  
     
 # - title: "Guide"
 #    url: /markdown/
