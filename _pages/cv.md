@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2014: B.S. in Physics, Universidad Nacional Mayor de San Marcos, Lima, Perus (Licenciatura)
-* 2016: M.S. in Physics, Instituto Balseiro, Bariloche, Argentina
-* 2024 (expected): Ph.D in Physics, Instituto Balseiro, Bariloche, Argentina
+* 2014: Bachelor in Physics, Universidad Nacional Mayor de San Marcos, Lima, Perus (Licenciatura)
+* 2016: Master in Physics, Instituto Balseiro, Bariloche, Argentina
+* 2024 (expected): PhD in Physics, Instituto Balseiro, Bariloche, Argentina
 
 Work experience
 ======
@@ -22,10 +22,10 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* 2015 - 2016: Research Assistant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Merging pull request
+  # * Supervisor: Professor Hub
   
 Skills
 ======
