@@ -25,7 +25,8 @@ Work experience
 * 2015 - 2016: 
   * Github University
   * Duties included: Merging pull request
-[//]:# *Supervisor: Professor Hub"
+  
+[coment ]:# *Supervisor: Professor Hub"
   
 Skills
 ======
