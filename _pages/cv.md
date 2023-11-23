@@ -22,11 +22,10 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* 2015 - 2016: 
+[coment]:( * 2015 - 2016:
   * Github University
   * Duties included: Merging pull request
-  
-[coment]:# *Supervisor: Professor Hub"
+  *Supervisor: Professor Hub )
   
 Skills
 ======
