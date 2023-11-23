@@ -27,14 +27,14 @@ Education
   * Duties included: Merging pull request
  *Supervisor: Professor Hub  --->
   
-Skills
+Programing languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Wolfram Mathematica (High level experience)
+* Python (Initial level experience)
+  * Numpy
+  * Pandas
+  * Sickitlearn 
+
 
 <!--- Publications
 ======
