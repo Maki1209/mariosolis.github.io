@@ -15,17 +15,17 @@ redirect_from:
 * 2016: Master in Physics, Instituto Balseiro, Bariloche, Argentina
 * 2024 (expected): PhD in Physics, Instituto Balseiro, Bariloche, Argentina
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[coment]: Work experience
+[coment]: ======
+[coment]: * Summer 2015: Research Assistant
+[coment]:  * Github University
+[coment]:  * Duties included: Tagging issues
+[coment]:  * Supervisor: Professor Git
 
 [coment]: * 2015 - 2016:
-[coment]: * Github University
-[coment]: * Duties included: Merging pull request
-[coment]: *Supervisor: Professor Hub 
+[coment]:  * Github University
+[coment]:  * Duties included: Merging pull request
+[coment]:  *Supervisor: Professor Hub 
   
 Skills
 ======
