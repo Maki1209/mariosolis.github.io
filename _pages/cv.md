@@ -42,18 +42,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-  #<ul>{% for post in site.talks %}
-    #{% include archive-single-talk-cv.html %}
-  #{% endfor %}</ul>
+[coment]: #Talks
+[coment]: #======
+[coment]:  #<ul>{% for post in site.talks %}
+[coment]:    #{% include archive-single-talk-cv.html %}
+[coment]:  #{% endfor %}</ul>
   
-#Teaching
-#======
-  #<ul>{% for post in site.teaching %}
-    #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+[coment]: #Teaching
+[coment]: #======
+[coment]:  #<ul>{% for post in site.teaching %}
+[coment]:    #{% include archive-single-cv.html %}
+[coment]:  #{% endfor %}</ul>
   
-#Service and leadership
-#======
-#*Currently signed in to 43 different slack teams
+[coment]: #Service and leadership
+[coment]: #======
+[coment]: #*Currently signed in to 43 different slack teams
