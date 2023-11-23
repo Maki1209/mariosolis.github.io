@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏻 Hello there, this is Mario!"
+title: "👋🏻 Hello there, I am Mario!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,6 +11,8 @@ redirect_from:
 🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CondMat). The aim of my research are brought the techniques of HEP to CondMat. 
 
 🤖 I am interested in Machine Learning and Deep Learning. 
+
+In my spare time, I like practice ping-pong 🏓 and I love futbol
 
 Example: editing a markdown file for a talk [Editing a markdown file for a talk](/images/editing-talk.png)
 
