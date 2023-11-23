@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+#Education
 ======
 * 2014: Bachelor in Physics, Universidad Nacional Mayor de San Marcos, Lima, Peru (Licenciatura)
 * 2016: Master in Physics, Instituto Balseiro, Bariloche, Argentina
@@ -25,7 +25,7 @@ Work experience
 * 2015 - 2016: 
   * Github University
   * Duties included: Merging pull request
-<!  * Supervisor: Professor Hub
+#*Supervisor: Professor Hub
   
 Skills
 ======
@@ -42,18 +42,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-% Talks
-% ======
-%   <ul>{% for post in site.talks %}
-%     {% include archive-single-talk-cv.html %}
-%   {% endfor %}</ul>
+#Talks
+#======
+  #<ul>{% for post in site.talks %}
+    #{% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
   
-% Teaching
-% ======
-%   <ul>{% for post in site.teaching %}
-%     {% include archive-single-cv.html %}
-%   {% endfor %}</ul>
+#Teaching
+#======
+  #<ul>{% for post in site.teaching %}
+    #{% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
-% Service and leadership
-% ======
-% * Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#*Currently signed in to 43 different slack teams
