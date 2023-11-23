@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
+### Education
 ======
 * 2014: Bachelor in Physics, Universidad Nacional Mayor de San Marcos, Lima, Peru (Licenciatura)
 * 2016: Master in Physics, Instituto Balseiro, Bariloche, Argentina
@@ -42,18 +42,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[coment]: #Talks
-[coment]: #======
-[coment]:  #<ul>{% for post in site.talks %}
-[coment]:    #{% include archive-single-talk-cv.html %}
-[coment]:  #{% endfor %}</ul>
+[coment]: Talks
+[coment]: ======
+[coment]:  <ul>{% for post in site.talks %}
+[coment]:    {% include archive-single-talk-cv.html %}
+[coment]:  {% endfor %}</ul>
   
-[coment]: #Teaching
-[coment]: #======
-[coment]:  #<ul>{% for post in site.teaching %}
-[coment]:    #{% include archive-single-cv.html %}
-[coment]:  #{% endfor %}</ul>
+[coment]: Teaching
+[coment]: ======
+[coment]:  <ul>{% for post in site.teaching %}
+[coment]:    {% include archive-single-cv.html %}
+[coment]:  {% endfor %}</ul>
   
-[coment]: #Service and leadership
-[coment]: #======
-[coment]: #*Currently signed in to 43 different slack teams
+[coment]: Service and leadership
+[coment]: ======
+[coment]: *Currently signed in to 43 different slack teams
