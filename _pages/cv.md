@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Universidad Nacional Mayor de San Marcos, 2014 (Licenciatura)
-* M.S. in Physics, Instituto Balseiro, 2016
-* Ph.D in Physics, Instituto Balseiro, 2024 (expected)
+* 2014: B.S. in Physics, Universidad Nacional Mayor de San Marcos, Lima, Perus (Licenciatura)
+* 2016: M.S. in Physics, Instituto Balseiro, Bariloche, Argentina
+* 2024 (expected): Ph.D in Physics, Instituto Balseiro, Bariloche, Argentina
 
 Work experience
 ======
