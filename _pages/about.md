@@ -10,7 +10,7 @@ redirect_from:
 
 🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CondMat). The aim of my research are brought the techniques of HEP to CondMat. 
 
-🤖 I am interested in Machine Learning and Deep Learning. 
+🤖🧠 I am interested in Machine Learning and Deep Learning. 
 
 In my spare time, I practice ping-pong 🏓 and I follow the F1 🏎 and futbol ⚽!
 
