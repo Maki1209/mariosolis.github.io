@@ -12,7 +12,7 @@ redirect_from:
 
 🤖 I am interested in Machine Learning and Deep Learning. 
 
-In my spare time, I like practice ping-pong 🏓 and I follow the F1 🏎 and futbol ⚽!
+In my spare time, I practice ping-pong 🏓 and I follow the F1 🏎 and futbol ⚽!
 
 Example: editing a markdown file for a talk [Editing a markdown file for a talk](/images/editing-talk.png)
 
