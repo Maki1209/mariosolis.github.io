@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Universidad Nacional Mayor de San Marcos, 2014 (Licenciatura)
+* M.S. in Physics, Instituto Balseiro, 2016
+* Ph.D in Physics, Instituto Balseiro, 2024 (expected)
 
 Work experience
 ======
