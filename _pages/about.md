@@ -10,9 +10,11 @@ redirect_from:
 
 I am a theorethical physicist, now I am a PhD student 👨🏻‍🎓 at [Particle&Fields group](https://fisica.cab.cnea.gov.ar/particulas/) at [Instituto Balseiro](https://www.ib.edu.ar/),  in Bariloche: the Argentinian Patagonia.
 
-🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CondMat). The aim of my research are brought the techniques of HEP to CondMat. 
+🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CondMat). The aim of my research are brought the techniques of HEP to CondMat, and sometimes, in the opposite direction. 
 
-Recently, I am interested in Machine Learning and Deep Learning 🤖🧠 I would like to apply them into CondMat models.
+
+
+Recently, I am interested in Machine Learning and Deep Learning 🤖🧠
 
 In my spare time, I follow the F1 🏁🏎 and futbol ⚽!
 
