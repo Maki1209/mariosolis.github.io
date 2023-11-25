@@ -18,12 +18,12 @@ Education
 Working experience 
 ====== 
 * 2018 - now : PhD researcher fellow
-  * Instituto Balseiro
+  * Instituto Balseiro - Centro Atómico Bariloche, Argentina
   * Duties included : 
     * Teaching
 
 * 2015 - 2016 : Master student researcher
-  * Instituto Balseiro
+  * Instituto Balseiro - Centro Atómico Bariloche, Argentina
   * Duties included: Merging pull request
   
   
