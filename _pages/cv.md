@@ -36,7 +36,7 @@ Programing languages
   * Pandas
   * Sickitlearn
 
-* SQL (Low level experience)
+<!---* SQL (Low level experience)
 
 <!--- Publications
 ======
