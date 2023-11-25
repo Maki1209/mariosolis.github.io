@@ -84,8 +84,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "CondMat-HEP Physicist"
   location         : "Bariloche, Argentina"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Instituto Balseiro - CNEA"
+  pubmed           : #"https://www.ncbi.nlm.nih .gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-OlGgCEAAAAJ&hl=es"
   email            : "m.f.solis.benites@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
