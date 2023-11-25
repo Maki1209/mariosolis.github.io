@@ -22,17 +22,16 @@ redirect_from:
   * Duties included : Carry researched about Non-Fermi Liquids and Supercondunctivity.
 
 ----
-* Feb - Jun 2021 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) 
-  * Instituto Balseiro - Universidad Nacional de Cuyo, Bariloche - Argentina.
+* Feb - Jun 2021 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer).
+*Instituto Balseiro - Universidad Nacional de Cuyo, Bariloche - Argentina.*
 
-* Feb - Jun 2019 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) 
-  * *Instituto Balseiro - Universidad Nacional de Cuyo, Bariloche - Argentina.*
+* Feb - Jun 2019 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer). *Instituto Balseiro - Universidad Nacional de Cuyo, Bariloche - Argentina.*
+
 ----
 
 * 2015 - 2016 : **Master student researcher**
   * *Instituto Balseiro - Centro Atómico Bariloche, Argentina*
-  * Duties included: Merging pull request
-  
+    
   
 **Programing languages**
 ======
