@@ -15,7 +15,7 @@ Education
 * 2016: M.Sc. in Physics, Instituto Balseiro, Bariloche, Argentina
 * 2024 (expected): Ph.D. in Physics, Instituto Balseiro, Bariloche, Argentina
 
- Work experience 
+Working experience 
 ====== 
 * 2018 - now : PhD researcher fellow
   * Instituto Balseiro
