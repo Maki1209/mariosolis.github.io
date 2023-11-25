@@ -13,7 +13,7 @@ redirect_from:
 ======
 * 2024 (expected): **Ph.D. in Physics**, [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
 * 2016: **M.Sc. in Physics**, [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
-* 2014: **B.Sc. in Physics**, Universidad Nacional Mayor de San Marcos, Lima, Peru (Licenciatura).
+* 2014: **B.Sc. in Physics**, *[Universidad Nacional Mayor de San Marcos](https://www.unmsm.edu.pe/), Lima, Peru (Licenciatura).*
 
 **Working experience**
 ====== 
