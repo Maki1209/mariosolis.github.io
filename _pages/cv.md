@@ -15,26 +15,25 @@ Education
 * 2016: Master in Physics, Instituto Balseiro, Bariloche, Argentina
 * 2024 (expected): PhD in Physics, Instituto Balseiro, Bariloche, Argentina
 
-<!--- Work experience 
+ Work experience 
   ====== 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
- * 2015 - 2016:
-  * Github University
+* 2018 - now: PhD researcher
+  * Instituto Balseiro
+  * Duties included: 
+  
+ * 2015 - 2016: Master student researcher
+  * Instituto Balseiro
   * Duties included: Merging pull request
- *Supervisor: Professor Hub  --->
+  
   
 Programing languages
 ======
 * Wolfram Mathematica (High level experience)
-* Python (Initial level experience)
+* Python (Intermidiate level experience)
   * Numpy
   * Pandas
-  * Sickitlearn 
-
+  * Sickitlearn
+* SQL (Low level experience)
 
 <!--- Publications
 ======
