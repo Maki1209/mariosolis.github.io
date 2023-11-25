@@ -20,8 +20,7 @@ Education
 * 2018 - now : PhD researcher fellow
   * Instituto Balseiro
   * Duties included : 
-    * 
-
+    * Teaching
 
 * 2015 - 2016 : Master student researcher
   * Instituto Balseiro
