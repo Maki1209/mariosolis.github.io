@@ -11,17 +11,19 @@ redirect_from:
 
 Education
 ======
-* 2014: Bachelor in Physics, Universidad Nacional Mayor de San Marcos, Lima, Peru (Licenciatura)
-* 2016: Master in Physics, Instituto Balseiro, Bariloche, Argentina
-* 2024 (expected): PhD in Physics, Instituto Balseiro, Bariloche, Argentina
+* 2014: B.Sc. in Physics, Universidad Nacional Mayor de San Marcos, Lima, Peru (Licenciatura)
+* 2016: M.Sc. in Physics, Instituto Balseiro, Bariloche, Argentina
+* 2024 (expected): Ph.D. in Physics, Instituto Balseiro, Bariloche, Argentina
 
  Work experience 
   ====== 
-* 2018 - now: PhD researcher
+* 2018 - now : PhD researcher fellow
   * Instituto Balseiro
-  * Duties included: 
-  
- * 2015 - 2016: Master student researcher
+  * Duties included : 
+    * 
+
+
+* 2015 - 2016 : Master student researcher
   * Instituto Balseiro
   * Duties included: Merging pull request
   
@@ -29,10 +31,12 @@ Education
 Programing languages
 ======
 * Wolfram Mathematica (High level experience)
+
 * Python (Intermidiate level experience)
   * Numpy
   * Pandas
   * Sickitlearn
+
 * SQL (Low level experience)
 
 <!--- Publications
