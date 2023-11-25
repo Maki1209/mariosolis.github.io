@@ -17,25 +17,17 @@ redirect_from:
 
 **Working experience**
 ====== 
-* 2018 - now : **PhD researcher fellow**
-  
-   [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
+* 2018 - now : **PhD researcher fellow** at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
   * Duties included : Carry researched about Non-Fermi Liquids and Supercondunctivity.
 
 ----
-* Feb - Jun 2021 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer).
+* Feb - Jun 2021 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
 
-  [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
-
-* Feb - Jun 2019 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer). 
-  
-  [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
+* Feb - Jun 2019 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
 
 ----
 
-* 2015 - 2016 : **Master student researcher**
-  
-  *[Instituto Balseiro](https://www.ib.edu.ar/) - Centro Atómico Bariloche, Argentina*
+* 2015 - 2016 : **Master student researcher** at *[Instituto Balseiro](https://www.ib.edu.ar/) - Centro Atómico Bariloche, Argentina*
     
   
 **Programing languages**
