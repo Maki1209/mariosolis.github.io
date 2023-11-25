@@ -16,7 +16,7 @@ Education
 * 2024 (expected): Ph.D. in Physics, Instituto Balseiro, Bariloche, Argentina
 
  Work experience 
-  ====== 
+====== 
 * 2018 - now : PhD researcher fellow
   * Instituto Balseiro
   * Duties included : 
