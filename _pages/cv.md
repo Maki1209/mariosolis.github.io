@@ -34,7 +34,7 @@ redirect_from:
 ======
 * **Wolfram Mathematica** (*High level experience*)
   * Parallel programing
-  * Numerical computation
+  * Numerical analysis
 
 * **Python** (*Intermidiate level experience*)
   * Numpy
