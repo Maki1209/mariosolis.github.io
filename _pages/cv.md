@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
-* 2014: B.Sc. in Physics, Universidad Nacional Mayor de San Marcos, Lima, Peru (Licenciatura).
-* 2016: M.Sc. in Physics, Instituto Balseiro, Bariloche, Argentina.
-* 2024 (expected): Ph.D. in Physics, Instituto Balseiro, Bariloche, Argentina.
+* 2024 (expected): **Ph.D. in Physics**, Instituto Balseiro, Bariloche, Argentina.
+* 2016: **M.Sc. in Physics**, Instituto Balseiro, Bariloche, Argentina.
+* 2014: **B.Sc. in Physics**, Universidad Nacional Mayor de San Marcos, Lima, Peru (Licenciatura).
 
-Working experience 
+**Working experience**
 ====== 
 * 2018 - now : **PhD researcher fellow**
-  * Instituto Balseiro - Centro Atómico Bariloche, Bariloche - Argentina.
+  * *Instituto Balseiro - Centro Atómico Bariloche, Bariloche - Argentina.*
   * Duties included : Carry researched about Non-Fermi Liquids and Supercondunctivity.
 
 ----
@@ -26,19 +26,19 @@ Working experience
   * Instituto Balseiro - Universidad Nacional de Cuyo, Bariloche - Argentina.
 
 * Feb - Jun 2019 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) 
-  * Instituto Balseiro - Universidad Nacional de Cuyo, Bariloche - Argentina.
+  * *Instituto Balseiro - Universidad Nacional de Cuyo, Bariloche - Argentina.*
 ----
 
 * 2015 - 2016 : **Master student researcher**
-  * Instituto Balseiro - Centro Atómico Bariloche, Argentina
+  * *Instituto Balseiro - Centro Atómico Bariloche, Argentina*
   * Duties included: Merging pull request
   
   
-Programing languages
+**Programing languages**
 ======
-* Wolfram Mathematica (High level experience)
+* **Wolfram Mathematica** (*High level experience*)
 
-* Python (Intermidiate level experience)
+* **Python** (*Intermidiate level experience*)
   * Numpy
   * Pandas
   * Matplotlib
