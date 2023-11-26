@@ -5,4 +5,4 @@ excerpt: "In this project, I will show you how to implemnent an Exploratory Data
 collection: portfolio
 ---
 
-This project use the public data that it is available in Kaggle website thought [this link](https://www.kaggle.com/competitions/santander-product-recommendation/data). 
+This project use the public dataset that it is available in Kaggle website thought [this link](https://www.kaggle.com/datasets/gabrielpmaia1323/data-set-open-finance-credit-card). 
