@@ -5,6 +5,4 @@ excerpt: "In this project, I will show you how to implemnent an Exploratory Data
 collection: portfolio
 ---
 
-In this project, I will show you how to implemnent an Exploratory Data Analsysi (EDA). Our main objective is to resolve the question about the dataset. 
-
-[https://www.kaggle.com/competitions/santander-product-recommendation/data](https://www.kaggle.com/competitions/santander-product-recommendation/data)
+This project use the public data that it is available in Kaggle website thought [this link](https://www.kaggle.com/competitions/santander-product-recommendation/data). 
