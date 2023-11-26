@@ -20,7 +20,7 @@ redirect_from:
 * 2018 - now : **PhD researcher fellow** at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
   * Duties included : Carry researched about Non-Fermi Liquids and Supercondunctivity.
 
-* 2023 - now : Projects in Data Science
+* 2023 - now : Data Science enthusiast
 
 ----
 * Feb - Jun 2021 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
