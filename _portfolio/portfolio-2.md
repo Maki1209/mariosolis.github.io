@@ -8,7 +8,6 @@ collection: portfolio
 This project use the public dataset that it is available in Kaggle website thought [this link](https://www.kaggle.com/datasets/gabrielpmaia1323/data-set-open-finance-credit-card). 
 
 ``` python
-import pandas as pd
-return()
-
+ import pandas as pd
+ return()
 ```
