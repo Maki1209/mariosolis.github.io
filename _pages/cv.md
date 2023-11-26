@@ -21,7 +21,7 @@ redirect_from:
   * Duties included : Carry researched about Non-Fermi Liquids and Supercondunctivity.
 
 * 2023 - now : **Data Science enthusiast**
-  * Developed projects : Data cleaning, EDA, Machine learning and Deep learning with different dataset; see more in [portofolio](https://mariosolisb.github.io/homepage/portfolio/)
+  * Developed projects : Data cleaning, EDA, Machine learning and Deep learning with different dataset; see more in [portofolio](https://mariosolisb.github.io/homepage/portfolio/).
 
 ----
 * Feb - Jun 2021 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
