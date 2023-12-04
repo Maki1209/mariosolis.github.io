@@ -8,7 +8,10 @@ title: aaa
 excerpt: aaaa
 collection: portofolio
 ---
-In this project, I used the public dataset that it is available in the youtube channel of [*Codificando bits*](https://www.youtube.com/watch?v=bGnD1Ki7j-g).
+In this project, I used the public dataset that it is available in the youtube channel of [*Codificando bits*](https://www.youtube.com/watch?v=bGnD1Ki7j-g). The focus of this project is to describe or recognize the client's profile. However, at first, I cleanned the dataset in order to implement the Exploratory Data Analysis. 
+
+Let me explain here, a few steps that I followed in this project. 
+- 
 
 
 
