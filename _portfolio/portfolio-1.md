@@ -5,7 +5,7 @@ excerpt: "In this project, I will do the first step for describing the bank's co
 collection: portfolio
 ---
 
-This project use the public dataset that it is available in Kaggle website thought [this link](https://www.kaggle.com/datasets/gabrielpmaia1323/data-set-open-finance-credit-card). 
+In this project, I used the public dataset that it is available in the youtube channel of [*Codificando bits*](https://www.youtube.com/watch?v=bGnD1Ki7j-g).
 
 
 
