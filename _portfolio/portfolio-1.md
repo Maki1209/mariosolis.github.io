@@ -9,4 +9,6 @@ In this project, I used the public dataset that it is available in the youtube c
 
 Let me explain here, a few steps that I followed in this project. 
 
+The code and datasets are available in my Github [repository](https://github.com/MarioSolisB/Codificando_bits_project).
+
 
