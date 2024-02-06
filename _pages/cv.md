@@ -9,19 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-**Education**
-======
-* 2024 (expected): **Ph.D. in Physics**, [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
-* 2016: **M.Sc. in Physics**, [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
-* 2014: **B.Sc. in Physics**, *[Universidad Nacional Mayor de San Marcos](https://www.unmsm.edu.pe/), Lima, Peru (Licenciatura).*
-
 **Working experience**
 ====== 
-* 2018 - now : **PhD researcher fellow** at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
-  * Duties included : Carry researched about Non-Fermi Liquids and Supercondunctivity.
-
 * 2023 - now : **Data Science enthusiast**
   * Developed projects : Data cleaning, EDA, Machine learning and Deep learning with different dataset; see more in [portofolio](https://mariosolisb.github.io/homepage/portfolio/).
+
+* 2018 - now : **PhD researcher fellow** at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
+  * Duties included : Carry researched about Non-Fermi Liquids and Supercondunctivity.
 
 ----
 * Feb - Jun 2021 : **Teaching Assistant** - Mathematics II (3rd year of undergraduate Physics carrer) at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
@@ -31,7 +25,12 @@ redirect_from:
 ----
 
 * 2015 - 2016 : **Master student researcher** at *[Instituto Balseiro](https://www.ib.edu.ar/) - Centro Atómico Bariloche, Argentina*
-    
+
+**Education**
+======
+* 2024 (expected): **Ph.D. in Physics**, [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
+* 2016: **M.Sc. in Physics**, [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*
+* 2014: **B.Sc. in Physics**, *[Universidad Nacional Mayor de San Marcos](https://www.unmsm.edu.pe/), Lima, Peru (Licenciatura).*    
   
 **Programing languages**
 ======
@@ -44,6 +43,7 @@ redirect_from:
   * Pandas
   * Matplotlib
   * Sickitlearn
+  * Seaborn
 
 <!---* SQL (Low level experience)
 
