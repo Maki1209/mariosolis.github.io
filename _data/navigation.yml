@@ -2,22 +2,22 @@
 main:
   - title: "CV"
     url: /cv/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
+           
   - title: "Preprint-Arxiv"
     url: http://arxiv.org/a/solis_m_2
     #url: /research/  
     
 # - title: "Inspire-hep"
 #   url: https://inspirehep.net/authors/1794649?ui-citation-summary=true
+
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching"
+#    url: /teaching/    
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
