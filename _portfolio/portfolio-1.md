@@ -4,11 +4,12 @@ excerpt: "In this project, as a first step, I did cleaned the non-sensical value
 The second step, I started with the Exploratory Data Analyst of the cleanned dataset. There are some interesting features behind in the dataset. These were found with the statistical analysis (univariate).
 
 
-**Some Python's packages used here**: *pandas*, *matplotlib* and *seaborn*.
+Some Python's packages used here: **pandas**, **matplotlib** and **seaborn**.
 
-**Some plots**
+
  <!---<br/><img src='/images/500x300.png'>
  --> "
+
 collection: portfolio
 ---
 **The code and datasets are available in my Github [repository](https://github.com/MarioSolisB/Profile_of_a_bank_coustomer)🤓**
