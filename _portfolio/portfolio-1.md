@@ -14,7 +14,7 @@ collection: portfolio
 In this project, I used the public dataset that it is available in the [*youtube channel*](https://www.youtube.com/watch?v=bGnD1Ki7j-g) (see in the description box of this video). 
 
 
-**The goal of this project is described or recognized the coustomer's profile after a marketing campaign.🔎** However, I had to clean the dataset in order to implement the Exploratory Data Analysis. Let me explain here, a few steps that I followed in this project.
+**🔎 The goal of this project is described or recognized the coustomer's profile after a marketing campaign.** However, I had to clean the dataset in order to implement the Exploratory Data Analysis. Let me explain here, a few steps that I followed in this project.
 
 **For cleanning process** 
 
