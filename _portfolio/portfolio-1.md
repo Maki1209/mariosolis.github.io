@@ -1,15 +1,16 @@
 ---
 title: "Describing the profile of a bank's coustomer: Cleanning and EDA"
-excerpt: "In this project, as a first step, I did cleaned the non-sensical values. The dataset contains some non-sense numerical values and outliers. Also, it contained some typos in categorical variables. In order to clean it, I used *pandas*, *matplotlib* and *seaborn* Python's packages. 
+excerpt: "In this project, as a first step, I did cleaned the non-sensical values. The dataset contains some non-sense numerical values and outliers. Also, it contained some typos in categorical variables. 
+The second step, I started with the Exploratory Data Analyst of the cleanned dataset. There are some interesting features behind in the dataset. 
 
-The second step, relies to the 
-
+*Some Python's packages used here*: *pandas*, *matplotlib* and *seaborn*.
+ 
  <!---<br/><img src='/images/500x300.png'>
  --> "
 collection: portfolio
 ---
 
-In this project, I used the public dataset that it is available in the [*youtube channel*](https://www.youtube.com/watch?v=bGnD1Ki7j-g) (see in the description box of the video). The goal of this project is described or recognized the coustomer's profile. However, at first, I cleanned the dataset in order to implement the Exploratory Data Analysis. 
+In this project, I used the public dataset that it is available in the [*youtube channel*](https://www.youtube.com/watch?v=bGnD1Ki7j-g) (see in the description box of this video). The goal of this project is described or recognized the coustomer's profile. However, at first, I cleanned the dataset in order to implement the Exploratory Data Analysis. 
 
 Let me explain here, a few steps that I followed in this project. 
 
