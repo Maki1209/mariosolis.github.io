@@ -5,6 +5,7 @@ The second step, I started with the Exploratory Data Analyst of the cleanned dat
 
 *Some Python's packages used here*: *pandas*, *matplotlib* and *seaborn*.
 
+**Some plots**
  <!---<br/><img src='/images/500x300.png'>
  --> "
 collection: portfolio
