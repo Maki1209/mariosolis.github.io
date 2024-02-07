@@ -42,8 +42,9 @@ redirect_from:
   * Numpy
   * Pandas
   * Matplotlib
-  * Sickitlearn
   * Seaborn
+  * Sickitlearn
+
 
 <!---* SQL (Low level experience)
 
