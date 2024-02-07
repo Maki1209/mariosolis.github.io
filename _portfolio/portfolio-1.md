@@ -18,14 +18,15 @@ In this project, I used the public dataset that it is available in the [*youtube
 
 **For cleanning process** 
 
-1. Find some 'Nan' values inside the columns of the dataset.
-2. Because, these 'Nan' values are less the 1% of the all dataset, I decided to eliminate these columns.
+1. I found some 'Nan' values inside the columns of the dataset.
+2. Due these 'Nan' values are less the 1% of the all entries in dataset, I decided to eliminate these columns.
 3. I explored the numerical values and I found some non-sense or outlier vaklues. So I removed them.
 4. Then, I worked the categorical entries. There were duplicates with some differences on fontsize. I used some dictionary in order to unify all those values.
 5. Save the cleanned dataset.
 
-**For EDA**
+**For Exploratory Data Analysis**
 
-
+1. 
+2. 
 
 
