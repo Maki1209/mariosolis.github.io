@@ -14,13 +14,17 @@ collection: portfolio
 In this project, I used the public dataset that it is available in the [*youtube channel*](https://www.youtube.com/watch?v=bGnD1Ki7j-g) (see in the description box of this video). 
 
 
-**The goal of this project is described or recognized the coustomer's profile after a marketing campaign.🔎** However, I had to clean the dataset in order to implement the Exploratory Data Analysis. 
+**The goal of this project is described or recognized the coustomer's profile after a marketing campaign.🔎** However, I had to clean the dataset in order to implement the Exploratory Data Analysis. Let me explain here, a few steps that I followed in this project.
 
-Let me explain here, a few steps that I followed in this project: 
+**For cleanning process** 
 
 1. Find some 'Nan' values inside the columns of the dataset.
 2. Because, these 'Nan' values are less the 1% of the all dataset, I decided to eliminate these columns.
-3. 
+3. I explored the numerical values and I found some non-sense or outlier vaklues. So I removed them.
+4. Then, I worked the categorical entries. There were duplicates with some differences on fontsize. I used some dictionary in order to unify all those values.
+5. Save the cleanned dataset.
+
+**For EDA**
 
 
 
