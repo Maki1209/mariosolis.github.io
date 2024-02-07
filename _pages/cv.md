@@ -35,8 +35,8 @@ redirect_from:
 **Programing languages**
 ======
 * **Wolfram Mathematica** (*High level experience*)
-  * Parallel programing
   * Numerical analysis
+  * Parallel programing  
 
 * **Python** (*Intermidiate level experience*)
   * Numpy
