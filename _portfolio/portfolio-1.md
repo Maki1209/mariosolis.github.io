@@ -9,11 +9,19 @@ The second step, I started with the Exploratory Data Analyst of the cleanned dat
  --> "
 collection: portfolio
 ---
+**The code and datasets are available in my Github [repository](https://github.com/MarioSolisB/Profile_of_a_bank_coustomer)🤓**
 
-In this project, I used the public dataset that it is available in the [*youtube channel*](https://www.youtube.com/watch?v=bGnD1Ki7j-g) (see in the description box of this video). The goal of this project is described or recognized the coustomer's profile. However, at first, I cleanned the dataset in order to implement the Exploratory Data Analysis. 
+In this project, I used the public dataset that it is available in the [*youtube channel*](https://www.youtube.com/watch?v=bGnD1Ki7j-g) (see in the description box of this video). 
 
-Let me explain here, a few steps that I followed in this project. 
 
-The code and datasets are available in my Github [repository](https://github.com/MarioSolisB/Profile_of_a_bank_coustomer).
+**The goal of this project is described or recognized the coustomer's profile after a marketing campaign.🔎** However, I had to clean the dataset in order to implement the Exploratory Data Analysis. 
+
+Let me explain here, a few steps that I followed in this project: 
+
+1. Find some 'Nan' values inside the columns of the dataset.
+2. Because, these 'Nan' values are less the 1% of the all dataset, I decided to eliminate these columns.
+3. 
+
+
 
 
