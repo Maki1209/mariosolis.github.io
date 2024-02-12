@@ -11,7 +11,7 @@ redirect_from:
 
 **Working experience**
 ====== 
-* 2023 - now : **Data Scientist enthusiast**
+* 2023 - now : **Machine Learning Trainee**
   * Developed projects : Data cleaning, EDA, Machine learning and Deep learning with different dataset; see more in [portofolio](https://mariosolisb.github.io/homepage/portfolio/).
 
 * 2018 - now : **PhD researcher fellow** at [*Instituto Balseiro*](https://www.ib.edu.ar/) *- Centro Atómico Bariloche, Bariloche - Argentina.*

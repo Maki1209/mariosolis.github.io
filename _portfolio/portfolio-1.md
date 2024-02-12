@@ -1,5 +1,5 @@
 ---
-title: "Describing the profile of a bank's coustomer: Cleanning and EDA"
+title: "Describing the profile of a bank's coustomer: Cleaning and EDA"
 excerpt: "In this project, as a first step, I did cleaned the non-sensical values. The dataset contains some non-sense numerical values and outliers. Also, it contained some typos in categorical variables. 
 The second step, I started with the Exploratory Data Analyst of the cleanned dataset. There are some interesting features behind in the dataset. These were found with the statistical analysis (univariate).
 
