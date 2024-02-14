@@ -25,10 +25,9 @@ Aren't headings cool?
 import pandas as pd
 
 ```
-$$
+$$\label{{eq:test2}
 V_{sphere} = \frac{4}{3}\pi r^3  
-$$ [#eq.1]
-
+$$ 
 
 In Eq. @eq:1.1 you can see...while in Eq. \eqref{eq:test2}...
 

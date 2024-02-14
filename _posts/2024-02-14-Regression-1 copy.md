@@ -8,7 +8,6 @@ tags:
   - AI
 ---
 
------
 This is the first entry of Machine Learning (ML) path 🧠🤖. The goal of the following post is compared between the scratch solution (wihout some prepared package) and well-known Pyhton's packages like Scipy, Sci-kit learn, Tensorflow and Pytorch.
 
 In this firs post, I will share a quick review of Regression problem focus in the basic case: Linear Regression.
@@ -26,10 +25,9 @@ Aren't headings cool?
 import pandas as pd
 
 ```
-$$
+$$\label{{eq:test2}
 V_{sphere} = \frac{4}{3}\pi r^3  
-$$ [#eq.1]
-
+$$ 
 
 In Eq. @eq:1.1 you can see...while in Eq. \eqref{eq:test2}...
 
