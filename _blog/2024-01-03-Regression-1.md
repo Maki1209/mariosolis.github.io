@@ -1,7 +1,7 @@
 ---
 title: 'Regression: Linear'
 date: 2024-02-14
-permalink: /posts/Regression-1
+permalink: /blog/Regression-1
 tags:
   - cool posts
   - category1
