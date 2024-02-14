@@ -1,7 +1,7 @@
 ---
 title: 'Regression: Linear'
 date: 2012-08-14
-permalink: /blog/ML1/
+permalink: /posts/Post1_LinearRegression
 tags:
   - cool posts
   - category1
