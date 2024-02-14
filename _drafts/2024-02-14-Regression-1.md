@@ -34,7 +34,7 @@ import pandas as pd
 Entonces
 
 \begin{equation} \label{eq:test}
-  Y_i = \beta_0 + \beta_1 x_i + \epsilon_i
+ Y_i = \beta_0 + \beta_1 x_i + \epsilon_i
 \end{equation}
 
 In Eq. $\eqref{eq:test}$
