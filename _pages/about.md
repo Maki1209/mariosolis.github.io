@@ -12,7 +12,9 @@ I am a theorethical physicist, now I am a PhD student 👨🏻‍🎓 at [Partic
 
 🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CondMat). The aim of my research are brought the techniques of HEP to CondMat, and sometimes, in the opposite direction. 
 
-Recently, I am interested in Machine Learning and Deep Learning 🤖🧠 I developed some projects about it, you can see in the [Portofolio](https://mariosolisb.github.io/homepage/portfolio/). I Would like to apply them in 
+I developed some Data Science projects, you can read about them in my [Portofolio](https://mariosolisb.github.io/homepage/portfolio/).
+
+Recently, I am interested in Machine Learning 🤖🧠. I shared my progress on ML in my [Blog](https://mariosolisb.github.io/homepage/year-archive/). 
 
 In my spare time, I follow the F1 🏁🏎 and futbol ⚽! 
 
