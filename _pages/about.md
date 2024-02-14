@@ -14,7 +14,7 @@ I am a theorethical physicist, now I am a PhD student 👨🏻‍🎓 at [Partic
 
 I developed some Data Science projects, you can read about them in my [Portofolio](https://mariosolisb.github.io/homepage/portfolio/).
 
-Recently, I am interested in Machine Learning 🤖🧠. I shared my progress on ML in my [Blog](https://mariosolisb.github.io/homepage/year-archive/). 
+Recently, I am interested in Machine Learning 🤖🧠. I shared my progress on ML in my [Blog](https://mariosolisb.github.io/homepage/blog/). 
 
 In my spare time, I follow the F1 🏁🏎 and futbol ⚽! 
 
