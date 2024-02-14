@@ -1,5 +1,5 @@
 ---
-title: 'Linear Regression'
+title: 'Machine Learning: Linear Regression'
 date: 2024-02-14
 permalink: /blog/Regression-1
 tags:
@@ -25,14 +25,15 @@ Aren't headings cool?
 import pandas as pd
 
 ```
-$$\label{eq:test2}
-V_{sphere} = \frac{4}{3}\pi r^3  
+Entonces
+
+$$
+V_{sphere} = \frac{4}{3}\pi r^3 \,,
 $$ 
 
-In Eq. @eq:1.1 you can see...while in Eq. \eqref{eq:test2}...
+In Eq. 
 
 $$ 
-y = mx + b
+y = mx + b\,,
 $$ 
-
 
