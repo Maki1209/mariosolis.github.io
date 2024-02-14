@@ -8,7 +8,7 @@ tags:
   - AI
 ---
 
-This is This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+This is the first entry of Machine Learning (ML) path 🧠🤖. I shared a quick review of Regression problem focus in the basic case: Linear Regression.
 
 Headings are cool
 ======
