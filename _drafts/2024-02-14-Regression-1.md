@@ -3,12 +3,12 @@ title: 'Linear Regression'
 date: 2024-02-14
 permalink: /blog/Regression-1
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Machine Learning
+  - Regression
+  - AI
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+This is This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
 Headings are cool
 ======
