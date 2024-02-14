@@ -7,6 +7,11 @@ tags:
   - Regression
   - AI
 ---
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
 
 This is the first entry of Machine Learning (ML) path 🧠🤖. The goal of the following post is compared between the scratch solution (wihout some prepared package) and well-known Pyhton's packages like Scipy, Sci-kit learn, Tensorflow and Pytorch.
 
@@ -28,11 +33,11 @@ import pandas as pd
 ```
 Entonces
 
-$$
-V_{sphere} = \frac{4}{3}\pi r^3 \,, 
-$$ [#eq.1]
+\begin{equation} \label{eq:test}
+  Y_i = \beta_0 + \beta_1 x_i + \epsilon_i
+\end{equation}
 
-In Eq. [@eq.1] \eqref{eq.1}
+In Eq. $\eqref{eq:test}$
 
 $$ 
 y = mx + b\,,
