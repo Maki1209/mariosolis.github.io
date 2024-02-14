@@ -28,10 +28,10 @@ import pandas as pd
 Entonces
 
 $$
-V_{sphere} = \frac{4}{3}\pi r^3 \,,
-$$ 
+V_{sphere} = \frac{4}{3}\pi r^3 \,, 
+$$ [#eq.1]
 
-In Eq. 
+In Eq. [@eq.1]
 
 $$ 
 y = mx + b\,,
