@@ -9,7 +9,11 @@ tags:
 ---
 
 -----
-This is the first entry of Machine Learning (ML) path 🧠🤖. I shared a quick review of Regression problem focus in the basic case: Linear Regression.
+This is the first entry of Machine Learning (ML) path 🧠🤖. The goal is compared between the scratch solution (wihout some prepared package) and well-known Pyhton's packages like Scipy, Tensorflow, Pytorch.
+
+I will share a quick review of Regression problem focus in the basic case: Linear Regression.
+
+
 
 Regression problem
 ======
@@ -26,16 +30,13 @@ import pandas as pd
 ```
 $$
 V_{sphere} = \frac{4}{3}\pi r^3  
-$$ {#eq:1.1}
+$$ [#eq.1]
 
-\begin{equation}
-aaa
-\end{equation}
+
 In Eq. @eq:1.1 you can see...while in Eq. \eqref{eq:test2}...
 
 $$ 
 y = mx + b
-$$ {#eq:id}
+$$ 
 
-@eq:id
 
