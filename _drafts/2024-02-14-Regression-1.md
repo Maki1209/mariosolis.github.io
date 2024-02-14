@@ -1,5 +1,5 @@
 ---
-title: 'Regression: Linear'
+title: 'Linear Regression'
 date: 2024-02-14
 permalink: /blog/Regression-1
 tags:
