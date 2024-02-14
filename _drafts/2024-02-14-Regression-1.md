@@ -9,7 +9,7 @@ tags:
 ---
 
 -----
-This is the first entry of Machine Learning (ML) path 🧠🤖. The goal is compared between the scratch solution (wihout some prepared package) and well-known Pyhton's packages like Scipy, Tensorflow, Pytorch.
+This is the first entry of Machine Learning (ML) path 🧠🤖. The goal is compared between the scratch solution (wihout some prepared package) and well-known Pyhton's packages like Scipy, Sci-kit learn, Tensorflow and Pytorch.
 
 I will share a quick review of Regression problem focus in the basic case: Linear Regression.
 
