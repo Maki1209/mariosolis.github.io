@@ -42,4 +42,18 @@ Aren't headings cool?
 import pandas as pd
 
 ```
+$$
+V_{sphere} = \frac{4}{3}\pi r^3  
+$$ {#eq:1.1}
+
+\begin{equation}
+aaa
+\end{equation}
+In Eq. @eq:1.1 you can see...while in Eq. \eqref{eq:test2}...
+
+$$ 
+y = mx + b
+$$ {#eq:id}
+
+@eq:id
 
