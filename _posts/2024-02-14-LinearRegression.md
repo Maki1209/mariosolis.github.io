@@ -96,13 +96,12 @@ and this is the expression that I would like to implement! Let's get into it!
 
 Let start the code in order to implement the Linear Regression. First, we load some packages
 
-<p style="font-size: 16px;">
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
-</p>
 
 also, we load the dataset. In order to define the dependent value $Y$, we have to load as a array
 
