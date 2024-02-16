@@ -103,28 +103,6 @@ Let start the code in order to implement the Linear Regression. First, we load s
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-/*****************************/
-/* Code-blocks: Font & style */
-/*****************************/
-
-.theme-dark {
-  --background-primary-alt: #40444d;
-}
-
-/* Edit mode */
-.cm-s-obsidian pre.HyperMD-codeblock {     
-  font-family: Cascadia Code;
-  font-size: 13px;
-  font-weight: 350;
-}
-
-/* Preview mode */
-.markdown-preview-view code {
-  font-family: Cascadia Code;  
-  font-size: 13px;
-  font-weight: 375;
-}
-
 ```
 
 also, we load the dataset. In order to define the dependent value $Y$, we have to load as a array
