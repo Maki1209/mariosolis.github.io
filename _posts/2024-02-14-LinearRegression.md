@@ -100,6 +100,10 @@ Let start the code in order to implement the Linear Regression. First, we load s
 
 
 ```python
+
+.markdown-preview-view code {
+    font-size: 18px;
+ }
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
