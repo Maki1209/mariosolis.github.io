@@ -53,11 +53,11 @@ J(D,f) = \sum_{i=1}^N (y_i -f(x_i))^2\,,
 \end{equation}
 This function is quadratic, this means that exist a unique minimum. We can find it out using a derivative (gradient). Therefore
 
-\begin{equation}
+$$
 a^*\,, b^* = Min \sum_{i=1}^N (y_i -a^t x_i -b)^2\,, 
-\end{equation}
+$$
 
-where $a^{*}$, $b^{*}$ are the mimimum values of $a$, $b$ respectively.
+where the star values are the mimimum values of $a$, $b$ respectively.
 
 Then, we can change of variables in a manner to absorb $b$. Therefore, we define 
 
