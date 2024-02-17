@@ -57,7 +57,7 @@ $$
 a^*\,, b^* = Min \sum_{i=1}^N (y_i -a^t x_i -b)^2\,, 
 $$
 
-where $a^*\,,b^*$ are the mimimum values of $ a,b $ respectively.
+where $a^*$, $b^*$ are the mimimum values of $ a,b $ respectively.
 
 Then, we can change of variables in a manner to absorb $b$. Therefore, we define 
 
