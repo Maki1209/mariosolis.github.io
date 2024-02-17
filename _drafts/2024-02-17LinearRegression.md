@@ -1,3 +1,13 @@
+---
+title: 'Machine Learning: Regression'
+date: 2024-02-14
+permalink: /blog/Regression-1
+tags:
+  - Machine Learning
+  - Regression
+  - AI
+---
+
 I would like to study the Linear Regression problem. But I will study it, first without any packages (just numpy and pandas), create a function to compute the Regression and so on. After that, I will discuss how implemented and what are the differences to use Sci-kit learn.
 
 ----
