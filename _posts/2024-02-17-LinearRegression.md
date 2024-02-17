@@ -76,6 +76,7 @@ Now, $\theta$ contains all the information that we need. If we find $\theta$ we 
 $$
 J(D,f) = \sum_{i=1}^N (y_i -\theta^t \tilde{x}_i)^2\,,
 $$
+
 or in matricial representation
 
 \begin{equation} \label{eq.Ext_vecs}
