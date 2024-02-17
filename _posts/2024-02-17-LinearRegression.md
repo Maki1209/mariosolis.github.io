@@ -278,7 +278,7 @@ plt.title('Linear regression for Cricket dataset')
 
 
     
-![png](_posts/LinearRegression_files/LinearRegression_21_1.png)
+![png](LinearRegression_files/LinearRegression_21_1.png)
     
 
 
@@ -377,7 +377,7 @@ plt.title('Linear regression for Cricket dataset')
 
 
     
-![png](/LinearRegression_files/LinearRegression_28_1.png)
+![png](LinearRegression_files/LinearRegression_28_1.png)
     
 
 
