@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning: Regression'
+title: 'Machine Learning: Regression I'
 date: 2024-02-17
 permalink: /blog/Regression-1
 tags:
