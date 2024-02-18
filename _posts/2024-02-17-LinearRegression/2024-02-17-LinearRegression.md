@@ -377,8 +377,8 @@ plt.title('Linear regression for Cricket dataset')
 
 
       
-![png](/images/3953273590_704e3899d5_m.jpg)
+![png]("/images/3953273590_704e3899d5_m.jpg")
 
-![png](/images/LinearRegression_28_1.png)
+![png](https://github.com/MarioSolisB/homepage/blob/master/images/LinearRegression_28_1.png)
 <br/><img src='/images/LinearRegression_28_1.png'>
 Thus, we can appreciate the both LinearRegression have good agreement!
