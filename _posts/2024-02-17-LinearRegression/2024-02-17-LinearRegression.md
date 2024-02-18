@@ -376,9 +376,10 @@ plt.title('Linear regression for Cricket dataset')
 
 
     
-![png](LinearRegression_files/LinearRegression_28_1.png)
+![png](LinearRegression_28_1.png)
     
-<img align="right" height=250 width=350 src="LinearRegression_files/LinearRegression_28_1.png" />
+<img align="right" height=250 width=350 src="LinearRegression_28_1.png />
+
 <img align="right" height=250 width=350 src="https://github.com/MarioSolisB/homepage/blob/master/images/LinearRegression_28_1.png" />
 
 
