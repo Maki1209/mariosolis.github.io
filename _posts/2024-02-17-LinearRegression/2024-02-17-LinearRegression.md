@@ -373,10 +373,8 @@ plt.title('Linear regression for Cricket dataset')
     Text(0.5, 1.0, 'Linear regression for Cricket dataset')
 
 
-
-
-    
-![png](./Images/LinearRegression_28_1.png)
+  
+![png](Images/LinearRegression_28_1.png)
     
 <img align="right" height=250 width=350 src="LinearRegression_28_1.png />
 
