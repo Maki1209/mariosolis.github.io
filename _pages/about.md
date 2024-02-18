@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![png](/images/LinearRegression_28_1.png){: .align-right width="300px"}
+
 I am a theorethical physicist, now I am a PhD student 👨🏻‍🎓 at [Particle&Fields group](https://fisica.cab.cnea.gov.ar/particulas/) at [Instituto Balseiro](https://www.ib.edu.ar/),  in Bariloche: the Argentinian Patagonia.
 
 🔎 My research are focused in two big areas of the theoretical physics: High-Energy Physics (HEP) and Condensed Matter Physics (CondMat). The aim of my research are brought the techniques of HEP to CondMat, and sometimes, in the opposite direction. 
